@@ -3,6 +3,8 @@
 A ClojureScript libraryto couple the re-frame database to the redux devtools.
 Works in 2 directions, e.g. with time travelling.
 
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.unrealistic/re-frame-redux.svg)](https://clojars.org/org.clojars.unrealistic/re-frame-redux)
+
 ## Usage
 This library can be hooked into a re-frame application.
 
