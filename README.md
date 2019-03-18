@@ -7,6 +7,7 @@ Works in 2 directions, e.g. with time travelling.
 
 ## Demo
 [Youtube Demo](https://youtu.be/qsF0pQKrnGM)
+
 [Bamse example project using it](https://gitlab.com/StevenT/bamse.git)
 
 ## Usage
